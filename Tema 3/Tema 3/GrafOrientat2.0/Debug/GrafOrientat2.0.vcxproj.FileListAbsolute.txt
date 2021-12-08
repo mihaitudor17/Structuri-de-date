@@ -1,0 +1,2 @@
+C:\Users\blaga\source\repos\GrafOrientat2.0\Debug\GrafOrientat2.0.exe
+C:\Users\blaga\source\repos\GrafOrientat2.0\Debug\GrafOrientat2.0.pdb

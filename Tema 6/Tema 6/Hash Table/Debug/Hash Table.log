@@ -1,0 +1,14 @@
+﻿  Hash Table.cpp
+C:\Users\blaga\source\repos\Hash Table\Hash Table.cpp(61,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\blaga\source\repos\Hash Table\Hash Table.cpp(53): message : while compiling class template member function 'int HashTable<std::string,std::string>::hashing(K)'
+          with
+          [
+              K=std::string
+          ]
+C:\Users\blaga\source\repos\Hash Table\Hash Table.cpp(39): message : see reference to function template instantiation 'int HashTable<std::string,std::string>::hashing(K)' being compiled
+          with
+          [
+              K=std::string
+          ]
+C:\Users\blaga\source\repos\Hash Table\Hash Table.cpp(98): message : see reference to class template instantiation 'HashTable<std::string,std::string>' being compiled
+  Hash Table.vcxproj -> C:\Users\blaga\source\repos\Hash Table\Debug\Hash Table.exe

@@ -1,0 +1,8 @@
+﻿  HuffMan.cpp
+C:\Users\blaga\source\repos\HuffMan\HuffMan.cpp(43,23): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\blaga\source\repos\HuffMan\HuffMan.cpp(54,23): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\blaga\source\repos\HuffMan\HuffMan.cpp(61,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\blaga\source\repos\HuffMan\HuffMan.cpp(63,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\blaga\source\repos\HuffMan\HuffMan.cpp(75,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\blaga\source\repos\HuffMan\HuffMan.cpp(80,27): warning C4018: '<': signed/unsigned mismatch
+  HuffMan.vcxproj -> C:\Users\blaga\source\repos\HuffMan\Debug\HuffMan.exe

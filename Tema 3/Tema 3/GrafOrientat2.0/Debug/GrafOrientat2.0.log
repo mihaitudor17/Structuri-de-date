@@ -1,0 +1,12 @@
+﻿  GrafOrientat2.0.cpp
+C:\Users\blaga\source\repos\GrafOrientat2.0\GrafOrientat2.0.cpp(13,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\blaga\source\repos\GrafOrientat2.0\GrafOrientat2.0.cpp(23,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\blaga\source\repos\GrafOrientat2.0\GrafOrientat2.0.cpp(92,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\blaga\source\repos\GrafOrientat2.0\GrafOrientat2.0.cpp(94,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\blaga\source\repos\GrafOrientat2.0\GrafOrientat2.0.cpp(97,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\blaga\source\repos\GrafOrientat2.0\GrafOrientat2.0.cpp(118,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\blaga\source\repos\GrafOrientat2.0\GrafOrientat2.0.cpp(125,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\blaga\source\repos\GrafOrientat2.0\GrafOrientat2.0.cpp(152,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\blaga\source\repos\GrafOrientat2.0\GrafOrientat2.0.cpp(161,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\blaga\source\repos\GrafOrientat2.0\GrafOrientat2.0.cpp(163,27): warning C4018: '<': signed/unsigned mismatch
+  GrafOrientat2.0.vcxproj -> C:\Users\blaga\source\repos\GrafOrientat2.0\Debug\GrafOrientat2.0.exe

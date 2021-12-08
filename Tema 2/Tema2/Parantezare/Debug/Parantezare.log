@@ -1,0 +1,4 @@
+﻿  Parantezare.cpp
+C:\Users\blaga\source\repos\Parantezare\Parantezare.cpp(30,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\blaga\source\repos\Parantezare\Parantezare.cpp(26): warning C4715: 'prioritate': not all control paths return a value
+  Parantezare.vcxproj -> C:\Users\blaga\source\repos\Parantezare\Debug\Parantezare.exe

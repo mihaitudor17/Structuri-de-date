@@ -1,0 +1,4 @@
+C:\Users\blaga\source\repos\Expresii Aritmetice\Debug\Expresii Aritmetice.exe
+C:\Users\blaga\source\repos\Expresii Aritmetice\Debug\Expresii Aritmetice.pdb
+C:\Users\blaga\OneDrive\Desktop\Tema2\Expresii Aritmetice\Debug\Expresii Aritmetice.exe
+C:\Users\blaga\OneDrive\Desktop\Tema2\Expresii Aritmetice\Debug\Expresii Aritmetice.pdb

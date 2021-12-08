@@ -1,0 +1,2 @@
+C:\Users\blaga\source\repos\HuffMan\Debug\HuffMan.exe
+C:\Users\blaga\source\repos\HuffMan\Debug\HuffMan.pdb

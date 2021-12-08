@@ -1,0 +1,8 @@
+﻿  Expresii Aritmetice.cpp
+C:\Users\blaga\source\repos\Expresii Aritmetice\Expresii Aritmetice.cpp(34,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\blaga\source\repos\Expresii Aritmetice\Expresii Aritmetice.cpp(45,59): warning C4018: '<': signed/unsigned mismatch
+C:\Users\blaga\source\repos\Expresii Aritmetice\Expresii Aritmetice.cpp(59,59): warning C4018: '<': signed/unsigned mismatch
+C:\Users\blaga\source\repos\Expresii Aritmetice\Expresii Aritmetice.cpp(148,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\blaga\source\repos\Expresii Aritmetice\Expresii Aritmetice.cpp(180,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\blaga\source\repos\Expresii Aritmetice\Expresii Aritmetice.cpp(30): warning C4715: 'precedenta': not all control paths return a value
+  Expresii Aritmetice.vcxproj -> C:\Users\blaga\source\repos\Expresii Aritmetice\Debug\Expresii Aritmetice.exe

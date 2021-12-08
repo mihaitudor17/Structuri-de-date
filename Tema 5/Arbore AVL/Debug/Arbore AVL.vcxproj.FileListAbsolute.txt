@@ -1,0 +1,3 @@
+C:\Users\blaga\source\repos\Arbore AVL\Debug\Arbore AVL.exe
+C:\Users\blaga\OneDrive\Desktop\Arbore AVL\Debug\Arbore AVL.exe
+C:\Users\blaga\OneDrive\Desktop\Arbore AVL\Debug\Arbore AVL.pdb

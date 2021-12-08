@@ -1,0 +1,6 @@
+﻿  Multimi Disjuncte.cpp
+C:\Users\blaga\source\repos\Multimi Disjuncte\Multimi Disjuncte.cpp(154,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\blaga\source\repos\Multimi Disjuncte\Multimi Disjuncte.cpp(191,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\blaga\source\repos\Multimi Disjuncte\Multimi Disjuncte.cpp(193,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\blaga\source\repos\Multimi Disjuncte\Multimi Disjuncte.cpp(195,22): warning C4018: '<': signed/unsigned mismatch
+  Multimi Disjuncte.vcxproj -> C:\Users\blaga\source\repos\Multimi Disjuncte\Debug\Multimi Disjuncte.exe

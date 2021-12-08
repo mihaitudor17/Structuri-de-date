@@ -1,0 +1,4 @@
+﻿  Joc numere.cpp
+C:\Users\blaga\source\repos\Joc numere\Joc numere.cpp(42,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\blaga\source\repos\Joc numere\Joc numere.cpp(64,16): warning C4018: '<': signed/unsigned mismatch
+  Joc numere.vcxproj -> C:\Users\blaga\source\repos\Joc numere\Debug\Joc numere.exe

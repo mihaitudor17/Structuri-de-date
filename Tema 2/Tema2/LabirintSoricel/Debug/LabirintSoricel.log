@@ -1,0 +1,8 @@
+﻿  LabirintSoricel.cpp
+C:\Users\blaga\source\repos\LabirintSoricel\LabirintSoricel.cpp(58,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\blaga\source\repos\LabirintSoricel\LabirintSoricel.cpp(65,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\blaga\source\repos\LabirintSoricel\LabirintSoricel.cpp(93,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\blaga\source\repos\LabirintSoricel\LabirintSoricel.cpp(99,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\blaga\source\repos\LabirintSoricel\LabirintSoricel.cpp(108,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\blaga\source\repos\LabirintSoricel\LabirintSoricel.cpp(110,27): warning C4018: '<': signed/unsigned mismatch
+  LabirintSoricel.vcxproj -> C:\Users\blaga\source\repos\LabirintSoricel\Debug\LabirintSoricel.exe
